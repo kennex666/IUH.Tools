@@ -1,6 +1,6 @@
 
 # Thông tin về tác giả
-Được viết bởi Dương Thái Bảo (@kennex666), sinh viên năm 2 trường đại học Công Nghiệp tp HCM.
+Được viết bởi Dương Thái Bảo (@kennex666), K17 - Kỹ thuật Phần mềm tại IUH
 
 # Mục đích
 Hỗ trợ các bạn sinh viên trong quá trình học tập, hỗ trợ thêm tính năng cho trang web của trường Đại Học Công Nghiệp tp HCM.
