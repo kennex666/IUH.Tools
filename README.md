@@ -11,6 +11,8 @@ Các bạn hãy nhấn *F12*, chuyển sang tab *Console*.
 
 Copy code cần dùng, dán vào console và nhấn enter để chạy
 
-# Ngoài lề
-Mình còn cung cấp lịch học thông qua Google Calendar giúp các bạn có thể theo dõi lịch học liên tục mà không cần đăng nhập. Đồng bộ trên mọi thiết bị.
-Link: https://facebook.com/IUH.Calendar
+# Dừng phát triển
+## Dự án lịch học Google Calendar
+
+Cung cấp lịch học thông qua Google Calendar giúp các bạn có thể theo dõi lịch học liên tục mà không cần đăng nhập. Đồng bộ trên mọi thiết bị.
+[Đã dừng phát triển] Link: https://facebook.com/IUH.Calendar
