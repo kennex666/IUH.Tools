@@ -1,1 +1,1 @@
-javascript:const style = document.createElement("style"); style.innerHTML = ".tbl-scrollable { max-height: unset !important; }"; document.body.appendChild(style)
+javascript:const style = document.createElement("style"); style.innerHTML = ".tbl-scrollable { max-height: unset !important; } .menu-top{display: none;} #config-tool{display: none;} #accordion-menu{display: none;}"; document.body.appendChild(style)
